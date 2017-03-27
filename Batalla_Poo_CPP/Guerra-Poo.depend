@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1490406175 source:c:\users\jonathan\documents\cprojects\guerra-poo\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"Participante.h"
+	"Avion.h"
+	"Tanque.h"
+
+1490406991 source:c:\users\jonathan\documents\cprojects\guerra-poo\src\participante.cpp
+	"Participante.h"
+
+1490406996 c:\users\jonathan\documents\cprojects\guerra-poo\include\participante.h
+	<string>
+
+1490407054 source:c:\users\jonathan\documents\cprojects\guerra-poo\src\avion.cpp
+	"Avion.h"
+
+1490407002 c:\users\jonathan\documents\cprojects\guerra-poo\include\avion.h
+	"Participante.h"
+	<string>
+
+1490407046 source:c:\users\jonathan\documents\cprojects\guerra-poo\src\soldado.cpp
+	"Soldado.h"
+
+1490407034 c:\users\jonathan\documents\cprojects\guerra-poo\include\soldado.h
+	"Participante.h"
+	<string>
+
+1490406965 source:c:\users\jonathan\documents\cprojects\guerra-poo\src\tanque.cpp
+	"Tanque.h"
+
+1490406971 c:\users\jonathan\documents\cprojects\guerra-poo\include\tanque.h
+	"Participante.h"
+	<string>
+
